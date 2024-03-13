@@ -1,0 +1,26 @@
+.container
+{
+    max-width: 800px;
+    margin: 20px auto;
+    min-height: 100vh;
+}
+.title
+{
+    margin: 10px 0px;
+    text-align: center;
+    color: red;
+}
+
+@media screen and (max-width: 500px) {
+   .container
+   {
+    max-width: 75vw;
+   }
+  }
+
+  @media screen and (max-width: 850px) {
+    .container
+    {
+     max-width: 75vw;
+    }
+   }

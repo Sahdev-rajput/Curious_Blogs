@@ -1,0 +1,19 @@
+.mainbar ul
+{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.mainbar ul li
+{
+  font-weight: bold;
+  margin: 0px 25px;
+}
+
+@media screen and (max-width: 500px) {
+  .mainbar ul li
+{
+  margin: 0px 15px;
+}
+ }

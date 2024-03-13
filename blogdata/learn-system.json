@@ -1,0 +1,5 @@
+{
+    "slug":"learn-system",
+    "description": "<!--\nOnline HTML, CSS and JavaScript editor to run code online.\n-->\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <link rel=\"stylesheet\" href=\"style.css\" />\n  <title>Browser</title>\n</head>\n\n<body>\n  <h1>\n    Write, edit and run HTML, CSS and JavaScript code online.\n  </h1>\n  <p>\n    Our HTML editor updates the webview automatically in real-time as you write code.\n  </p>\n  <script src=\"script.js\"></script>\n</body>\n\n</html>",
+    "author":"Sahdev_Rajput"
+}

@@ -1,3 +1,17 @@
+## Here is what i have made
+
+![Screenshot (172)](https://github.com/Sahdev-rajput/Curious_Blogs/assets/108891970/10cd8429-c2e3-4a8e-b221-9c8581455fd0)
+
+![Screenshot (173)](https://github.com/Sahdev-rajput/Curious_Blogs/assets/108891970/fe07f316-39cc-4923-bb45-6fb9f4d83e02)
+![Screenshot (174)](https://github.com/Sahdev-rajput/Curious_Blogs/assets/108891970/00a96a92-a3bd-40ae-8a83-494056872bab)
+
+
+
+![Screenshot (175)](https://github.com/Sahdev-rajput/Curious_Blogs/assets/108891970/a12cb32c-1adf-4544-828a-6c2b90ae6751)
+
+![Screenshot (176)](https://github.com/Sahdev-rajput/Curious_Blogs/assets/108891970/73245fad-2de2-4bd1-9778-f843697e8dc3)
+***
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
